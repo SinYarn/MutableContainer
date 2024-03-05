@@ -23,10 +23,13 @@
     <ClInclude Include="..\MutableContainer1\MutableContainer\QFMutableArray.hpp">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\MutableContainer1\MutableContainer\QFMutableContainer.h">
+    <ClInclude Include="QFLinkNode.hpp">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="QFLinkNode.hpp">
+    <ClInclude Include="QFMutableList.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MutableContainer1\MutableContainer\QFMutableContainer.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
